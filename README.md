@@ -1,7 +1,7 @@
 # Human Movement Data Tidy and Summary
 Course - Getting and Cleaning Data
 
-##Description
+## Description
 This page provide step by step clean up and summary process for the Human Movement Data with Smart Device.
 The data can be received from following location
 https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
