@@ -6,7 +6,7 @@ This page provide step by step clean up and summary process for the Human Moveme
 The data can be received from following location
 https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
-You just need to unzip the zip file in your working directory and then the script will do the following for you.
+You just need to unzip the zip file in your working directory and then the script [run_analysis.R] will do the following for you.
 
 1. Load the Files
 2. Get the name to the Subject, X and Y
