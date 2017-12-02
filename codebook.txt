@@ -1,0 +1,23 @@
+Variables in the Output File - Human_Movement_Summary.txt
+
+Sujbect: the id of 30 volunteers
+Activity: 6 movement activities numeric id
+Activity_Des: description of activities
+Avg_tBodyAccMag-mean(): the average of the body acceleration magnitude mean for each subject and activity
+Avg_tBodyAccMag-std(): the average of the body acceleration magnitude standard deviation for each subject and activity
+Avg_tGravityAccMag-mean(): the average of the gravity acceleration magnitude mean for each subject and activity
+Avg_tGravityAccMag-std(): the average of the graity acceleration magnitude standard deviation for each subject and activity
+Avg_tBodyAccJerkMag-mean(): the average of the body acceleration jerk signal magnitude mean for each subject and activity
+Avg_tBodyAccJerkMag-std(): the average of the body acceleration jerk magnitude standard deviation for each subject and activity
+Avg_tBodyGyroMag-mean(): the average of the body gyroscope magnitude mean for each subject and activity
+Avg_tBodyGyroMag-std(): the average of the body gyroscope magnitude standard deviation for each subject and activity
+Avg_tBodyGyroJerkMag-mean(): the average of the body gyroscope jerk magnitude mean for each subject and activity
+Avg_tBodyGyroJerkMag-std(): the average of the body gyroscope jerk magnitude standard deviation for each subject and activity
+Avg_fBodyAccMag-mean(): the average of the body acceleration magnitude mean for each subject and activity
+Avg_fBodyAccMag-std(): the average of the body acceleration magnitude standard deviation for each subject and activity
+Avg_fBodyBodyAccJerkMag-mean(): the average of the body acceleration jerk magnitude mean for each subject and activity
+Avg_fBodyBodyAccJerkMag-std(): the average of the body acceleration jerk magnitude standard deviation for each subject and activity
+Avg_fBodyBodyGyroMag-mean(): the average of the body gyroscope magnitude mean for each subject and activity
+Avg_fBodyBodyGyroMag-std(): the average of the body gyroscope magnitude standard deviation for each subject and activity
+Avg_fBodyBodyGyroJerkMag-mean(): the average of the body gyroscope jerk magnitude mean for each subject and activity
+Avg_fBodyBodyGyroJerkMag-std(): the average of the body gyroscope jerk magnitude standard deviation for each subject and activity
