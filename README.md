@@ -1,2 +1,4 @@
-# Getting_and_Cleaning_Data
-Cousera Data Science Course 3
+# Human Movement Data Tidy and Summary
+## Course - Getting and Cleaning Data
+
+
