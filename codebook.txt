@@ -1,5 +1,7 @@
 Variables in the Output File - Human_Movement_Summary.txt
 
+21 variables
+
 Sujbect: the id of 30 volunteers
 Activity: 6 movement activities numeric id
 Activity_Des: description of activities
